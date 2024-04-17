@@ -126,31 +126,17 @@ projects:
         link: "https://andreacortellari.github.io/tpc/turkey_palestine_collection"
         tagline: A collection of sources collected from the leftist press, that can be useful to those interested in studying the history of the radical left in Turkey, specifically its linkages and intellectual connections with Palestinian organizations from the late 1960s to the early 1970s.
 
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-
 publications:
     title: Publications
-#    intro: |
+    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
-#    papers:
+    papers:
        - title: Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972). Master’s Thesis by Andrea Cortellari
          link: "https://www.nomos-elibrary.de/10.5771/2625-9842-2021-2/diyar-volume-2-2021-issue-2?page=1"
          authors: Andrea Cortellari
 #        conference: Addison-Wesley, 1968
-
- #     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
- #       link: "#"
- #       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
- #       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  #    - title: A syntax directed compiler for Algol 60
-  #      link: "#"
-  #      authors: Edgar T. Irons
-  #      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -19,7 +19,6 @@ sidebar:
     citizenship: Italian
     website: https://andreacortellari.github.io
     linkedin: andrea-cortellari
-    ORCID: 
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
@@ -82,42 +81,16 @@ experiences:
         company: ilGiornale, Milan
         details: |
 certifications:
-#      title: Certifications
-#      list:
-#        - name: CV Builder
-#          start: 2020
-#          end: 2021
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: Google
-#          details: |
-#            Details about cert. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-
-#        - name: Git learning
-#          start: 2019
-#          end:
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.github.com
-#          credentialname: Github
-#          details: |
-#            Older certification. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-
+      title: Certifications
+      list:
+        - name: #CV Builder
+          start: #2020
+          end: #2021
+          organization: #Microsoft
+          credentialid: #111-222
+          credentialurl: #www.google.com
+          credentialname: #Google
+          details: #|
 projects:
     title: Projects
     intro: >

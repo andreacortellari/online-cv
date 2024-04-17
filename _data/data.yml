@@ -102,14 +102,11 @@ projects:
 publications:
     title: Publications
     intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
     papers:
-       - title: Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972). Master’s Thesis by Andrea Cortellari
-         link: "https://www.nomos-elibrary.de/10.5771/2625-9842-2021-2/diyar-volume-2-2021-issue-2?page=1"
-         authors: Andrea Cortellari
-#        conference: Addison-Wesley, 1968
+      - title: Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972). Master’s Thesis by Andrea Cortellari
+        link: "https://www.nomos-elibrary.de/10.5771/2625-9842-2021-2/diyar-volume-2-2021-issue-2?page=1"
+        authors: Andrea Cortellari
+        conference: #Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
@@ -120,18 +117,6 @@ skills:
 
 #      - name: Javascript & jQuery
 #        level: 98%
-
-#      - name: Angular
-#        level: 98%
-
-#      - name: HTML5 & CSS
-#        level: 95%
-
-#      - name: Ruby on Rails
-#        level: 85%
-
-#      - name: Sketch & Photoshop
-#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

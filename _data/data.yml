@@ -38,13 +38,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
         - item: Cooking
+          link:
+
+        - item: Leftist History
+          link: https://andreacortellari.github.io/tpc/turkey_palestine_collection
+
+        - item: # Cooking
           link:
 
 career-profile:

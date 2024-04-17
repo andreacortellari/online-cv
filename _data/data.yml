@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -50,12 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am research and data specialist based in The Netherlands, with almost ten years of work experience as a journalist, researcher, and more recently data analyst in the academic publishing sector. I wrote my awarded thesis in Middle Eastern Studies between Leiden and Sabancı University (Istanbul). I thrive on a close-knit team, but I am reliable and accurate when working independently. Finding that one, silly detail that makes the picture blurry and telling compelling stories is what I do best.
 education:
     title: Education
     info:

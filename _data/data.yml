@@ -93,7 +93,7 @@ certifications:
           details: #|
 projects:
     title: Projects
-    intro: >
+    intro: Something I do in my free time
     assignments:
       - title: The Turkey-Palestine Sources Collection
         link: "https://andreacortellari.github.io/tpc/turkey_palestine_collection"
